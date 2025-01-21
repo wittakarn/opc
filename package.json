@@ -1,0 +1,25 @@
+{
+  "name": "opc",
+  "version": "1.0.0",
+  "description": "Online product crawler will be used to crawl product in Shopee website",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittakarn/opc.git"
+  },
+  "author": "Wittakarn Keeratichayakorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wittakarn/opc/issues"
+  },
+  "homepage": "https://github.com/wittakarn/opc#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  },
+  "engines": {
+    "npm": ">=10.0.0 <11.0.0",
+    "node": ">=20.0.0 <21.0.0"
+  }
+}

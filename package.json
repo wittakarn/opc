@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Online product crawler will be used to crawl product in Shopee website",
   "main": "index.ts",
-  "scripts": {},
+  "scripts": {
+    "ui": "npx playwright test --ui"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wittakarn/opc.git"
